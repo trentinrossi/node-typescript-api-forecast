@@ -8,3 +8,5 @@
 
 ## 2 - eslint configurarion
 ``` yarn add -D @typescript-eslint/eslint-plugin eslint @typescript-eslint/parser ```
+``` yarn lint ``` to run eslint
+``` yarn lint:fix ``` to run eslint and adjust de code
