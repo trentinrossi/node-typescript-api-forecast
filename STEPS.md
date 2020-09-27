@@ -13,3 +13,7 @@
 
 ## 3 - Node Dev Configuration
 ``` yarn add -D ts-node-dev ```
+
+## 3 - Jest configuration
+``` yarn add -D jest ts-jest @types/jest ```
+``` yarn add -D jest supertest @types/supertest ```
